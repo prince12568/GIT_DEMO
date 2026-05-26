@@ -1,4 +1,5 @@
 # GIT_DEMO
-Learning Git 
+
+Learning Git
 <br>
-author Prince Hadke
+author James Bond
